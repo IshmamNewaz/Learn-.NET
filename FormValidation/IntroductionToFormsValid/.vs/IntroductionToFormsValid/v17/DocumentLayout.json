@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RTX696969\\Desktop\\NET CORE APPS\\BulkyWeb\\FormValidation\\IntroductionToFormsValid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{877950F8-B79B-4C4D-9AD2-79D9FC438FAB}|IntroductionToFormsValid\\IntroductionToFormsValid.csproj|c:\\users\\rtx696969\\desktop\\net core apps\\bulkyweb\\formvalidation\\introductiontoformsvalid\\introductiontoformsvalid\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877950F8-B79B-4C4D-9AD2-79D9FC438FAB}|IntroductionToFormsValid\\IntroductionToFormsValid.csproj|solutionrelative:introductiontoformsvalid\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877950F8-B79B-4C4D-9AD2-79D9FC438FAB}|IntroductionToFormsValid\\IntroductionToFormsValid.csproj|c:\\users\\rtx696969\\desktop\\net core apps\\bulkyweb\\formvalidation\\introductiontoformsvalid\\introductiontoformsvalid\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877950F8-B79B-4C4D-9AD2-79D9FC438FAB}|IntroductionToFormsValid\\IntroductionToFormsValid.csproj|solutionrelative:introductiontoformsvalid\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877950F8-B79B-4C4D-9AD2-79D9FC438FAB}|IntroductionToFormsValid\\IntroductionToFormsValid.csproj|c:\\users\\rtx696969\\desktop\\net core apps\\bulkyweb\\formvalidation\\introductiontoformsvalid\\introductiontoformsvalid\\attributes\\dobcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877950F8-B79B-4C4D-9AD2-79D9FC438FAB}|IntroductionToFormsValid\\IntroductionToFormsValid.csproj|solutionrelative:introductiontoformsvalid\\attributes\\dobcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877950F8-B79B-4C4D-9AD2-79D9FC438FAB}|IntroductionToFormsValid\\IntroductionToFormsValid.csproj|c:\\users\\rtx696969\\desktop\\net core apps\\bulkyweb\\formvalidation\\introductiontoformsvalid\\introductiontoformsvalid\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877950F8-B79B-4C4D-9AD2-79D9FC438FAB}|IntroductionToFormsValid\\IntroductionToFormsValid.csproj|solutionrelative:introductiontoformsvalid\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\NET CORE APPS\\BulkyWeb\\FormValidation\\IntroductionToFormsValid\\IntroductionToFormsValid\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "IntroductionToFormsValid\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\NET CORE APPS\\BulkyWeb\\FormValidation\\IntroductionToFormsValid\\IntroductionToFormsValid\\Models\\Student.cs",
+              "RelativeToolTip": "IntroductionToFormsValid\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:12:10.895Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\NET CORE APPS\\BulkyWeb\\FormValidation\\IntroductionToFormsValid\\IntroductionToFormsValid\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroductionToFormsValid\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\NET CORE APPS\\BulkyWeb\\FormValidation\\IntroductionToFormsValid\\IntroductionToFormsValid\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroductionToFormsValid\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:10:24.98Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\NET CORE APPS\\BulkyWeb\\FormValidation\\IntroductionToFormsValid\\IntroductionToFormsValid\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntroductionToFormsValid\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\NET CORE APPS\\BulkyWeb\\FormValidation\\IntroductionToFormsValid\\IntroductionToFormsValid\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "IntroductionToFormsValid\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T14:11:08.524Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DOBCheck.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\NET CORE APPS\\BulkyWeb\\FormValidation\\IntroductionToFormsValid\\IntroductionToFormsValid\\Attributes\\DOBCheck.cs",
+              "RelativeDocumentMoniker": "IntroductionToFormsValid\\Attributes\\DOBCheck.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\NET CORE APPS\\BulkyWeb\\FormValidation\\IntroductionToFormsValid\\IntroductionToFormsValid\\Attributes\\DOBCheck.cs",
+              "RelativeToolTip": "IntroductionToFormsValid\\Attributes\\DOBCheck.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:16:05.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
