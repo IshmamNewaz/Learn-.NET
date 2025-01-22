@@ -38,7 +38,6 @@ namespace HealthMonitoringApp.Controllers
         {
             var grid = new System.Web.UI.WebControls.GridView();
 
-            // Bind the model data to the grid
             grid.DataSource = from m in model
                               select new
                               {
@@ -76,7 +75,6 @@ namespace HealthMonitoringApp.Controllers
            
             var matrics = MatricService.Get(); 
 
-            // Call the export method
             ExportClientsListToExcel(matrics);
 
             return RedirectToAction("ShowAll"); 

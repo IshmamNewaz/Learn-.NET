@@ -24,19 +24,12 @@ namespace BLL.Services
 
         public static void Create(MatricDTO c)
         {
-            /*var repo = new CourseRepo();
-            var mapper = GetMapper();
-            var data = mapper.Map<Course>(c);
-            repo.Create(data);*/
 
             new MatricRepo().Create(GetMapper().Map<Matric>(c));
         }
 
         public static List<MatricDTO> Get()
         {
-            /*var data = new CourseRepo().Get();
-            var ret = GetMapper().Map<List<CourseDTO>>(data);
-            return ret;*/
             return GetMapper().Map<List<MatricDTO>>(new MatricRepo().Get());
         }
         public static List<MatricDTO> Get(string userId)
