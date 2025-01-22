@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9D8EED-14B0-49F1-A073-9412668677F0}|HealthMonitoringApp\\HealthMonitoringApp.csproj|C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\healthmonitoringapp\\views\\matricv\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A9D8EED-14B0-49F1-A073-9412668677F0}|HealthMonitoringApp\\HealthMonitoringApp.csproj|solutionrelative:healthmonitoringapp\\views\\matricv\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D9152-5FE2-41F0-92E6-91A7B79F39F4}|BLL\\BLL.csproj|c:\\users\\rtx696969\\desktop\\temp project\\healthmonitoringapp\\bll\\dtos\\matricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D9152-5FE2-41F0-92E6-91A7B79F39F4}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\matricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F621C385-C512-4B25-A541-2064266C9874}|DAL\\DAL.csproj|C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\dal\\repo\\matricrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F621C385-C512-4B25-A541-2064266C9874}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\matricrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9D8EED-14B0-49F1-A073-9412668677F0}|HealthMonitoringApp\\HealthMonitoringApp.csproj|c:\\users\\rtx696969\\desktop\\temp project\\healthmonitoringapp\\healthmonitoringapp\\controllers\\matriccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9D8EED-14B0-49F1-A073-9412668677F0}|HealthMonitoringApp\\HealthMonitoringApp.csproj|solutionrelative:healthmonitoringapp\\controllers\\matriccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9D8EED-14B0-49F1-A073-9412668677F0}|HealthMonitoringApp\\HealthMonitoringApp.csproj|c:\\users\\rtx696969\\desktop\\temp project\\healthmonitoringapp\\healthmonitoringapp\\controllers\\matricvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9D8EED-14B0-49F1-A073-9412668677F0}|HealthMonitoringApp\\HealthMonitoringApp.csproj|solutionrelative:healthmonitoringapp\\controllers\\matricvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9D8EED-14B0-49F1-A073-9412668677F0}|HealthMonitoringApp\\HealthMonitoringApp.csproj|c:\\users\\rtx696969\\desktop\\temp project\\healthmonitoringapp\\healthmonitoringapp\\views\\matricv\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A9D8EED-14B0-49F1-A073-9412668677F0}|HealthMonitoringApp\\HealthMonitoringApp.csproj|solutionrelative:healthmonitoringapp\\views\\matricv\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D9152-5FE2-41F0-92E6-91A7B79F39F4}|BLL\\BLL.csproj|C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\bll\\services\\matricservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D9152-5FE2-41F0-92E6-91A7B79F39F4}|BLL\\BLL.csproj|solutionrelative:bll\\services\\matricservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatricDTO.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\BLL\\DTOs\\MatricDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\MatricDTO.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\BLL\\DTOs\\MatricDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\MatricDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:56:50.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\HealthMonitoringApp\\Views\\MatricV\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HealthMonitoringApp\\Views\\MatricV\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\HealthMonitoringApp\\Views\\MatricV\\Delete.cshtml",
+              "RelativeToolTip": "HealthMonitoringApp\\Views\\MatricV\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T21:49:46.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\HealthMonitoringApp\\Views\\MatricV\\ShowAll.cshtml",
+              "RelativeDocumentMoniker": "HealthMonitoringApp\\Views\\MatricV\\ShowAll.cshtml",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\HealthMonitoringApp\\Views\\MatricV\\ShowAll.cshtml",
+              "RelativeToolTip": "HealthMonitoringApp\\Views\\MatricV\\ShowAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T13:32:00.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatricVController.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\HealthMonitoringApp\\Controllers\\MatricVController.cs",
+              "RelativeDocumentMoniker": "HealthMonitoringApp\\Controllers\\MatricVController.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\HealthMonitoringApp\\Controllers\\MatricVController.cs",
+              "RelativeToolTip": "HealthMonitoringApp\\Controllers\\MatricVController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:09:22.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MatricService.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\BLL\\Services\\MatricService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\MatricService.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\BLL\\Services\\MatricService.cs",
+              "RelativeToolTip": "BLL\\Services\\MatricService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:48:28.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatricRepo.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\DAL\\Repo\\MatricRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\MatricRepo.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\DAL\\Repo\\MatricRepo.cs",
+              "RelativeToolTip": "DAL\\Repo\\MatricRepo.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:38:47.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatricController.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\HealthMonitoringApp\\Controllers\\MatricController.cs",
+              "RelativeDocumentMoniker": "HealthMonitoringApp\\Controllers\\MatricController.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\HealthMonitoringApp\\HealthMonitoringApp\\Controllers\\MatricController.cs",
+              "RelativeToolTip": "HealthMonitoringApp\\Controllers\\MatricController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:53:50.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

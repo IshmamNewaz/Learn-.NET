@@ -1,0 +1,116 @@
+﻿@model List<BLL.DTOs.MatricDTO>
+@{
+    ViewBag.Title = "ShowAll";
+}
+<h2>Showing All The Matric Results</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>Matric Id</th>
+        <th>User Id</th>
+        <th>User Name</th>
+        <th>Weight</th>
+        <th>Blood Pressure</th>
+        <th>Blood Temperature</th>
+        <th>Blood Sugar Level</th>
+        <th>Entry Date</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var matric in Model)
+    {
+        <tr>
+            <td>@matric.MatricsId</td>
+            <td>@matric.UserId</td>
+            <td>@matric.Name</td>
+            <td>@matric.Weight KG</td>
+            <td>@matric.BloodPressure mm/Hg</td>
+            <td>@matric.BloodTemperature °C</td>
+            <td>@matric.BloodSugarLevel mm/dL </td>
+            <td>@matric.CreatedAt</td>
+            <td>
+                @Html.ActionLink("Delete", "Delete", new { id = matric.MatricsId })
+            </td>
+        </tr>
+    }
+</table>
+
+<p>
+    <a href="@Url.Action("ExportToExcel", "MatricV")" class="btn btn-success">Export to Excel</a>
+</p>
+
+<h3>User Data Bar Chart</h3>
+<canvas id="userDataChart" width="400" height="200"></canvas>
+<script src="~/Scripts/chart.js"></script>
+<script src="~/Scripts/jquery-3.6.0.min.js"></script>
+<script src="~/Scripts/moment.min.js"></script>
+<script>
+    $(document).ready(function () {
+
+        var matricData = @Html.Raw(Json.Encode(Model));
+        var userMatricData = matricData.filter(m => m.UserId === "Ishmam124");
+
+        var first10Records = userMatricData.slice(0, 10);
+
+
+        var labels = first10Records.map(function (record) {
+
+            var formattedDate = moment(record.CreatedAt).format('YYYY-MM-DD');
+            return formattedDate;
+        });
+
+        var weightData = first10Records.map(function (record) { return record.Weight; });
+        var bloodPressureData = first10Records.map(function (record) { return record.BloodPressure; });
+        var bloodTemperatureData = first10Records.map(function (record) { return record.BloodTemperature; });
+        var bloodSugarLevelData = first10Records.map(function (record) { return record.BloodSugarLevel; });
+
+        var ctx = document.getElementById('userDataChart').getContext('2d');
+
+
+        var userDataChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Weight (Kg)',
+                    data: weightData,
+                    backgroundColor: '#FF6384',
+                    borderColor: '#FF6384',
+                    borderWidth: 1
+                },
+                {
+                    label: 'Blood Pressure (mm/Hg)',
+                    data: bloodPressureData,
+                    backgroundColor: '#36A2EB',
+                    borderColor: '#36A2EB',
+                    borderWidth: 1
+                },
+                {
+                    label: 'Blood Temperature (°C)',
+                    data: bloodTemperatureData,
+                    backgroundColor: '#FFCE56',
+                    borderColor: '#FFCE56',
+                    borderWidth: 1
+                },
+                {
+                    label: 'Blood Sugar Level (mm/dL) ',
+                    data: bloodSugarLevelData,
+                    backgroundColor: '#4BC0C0',
+                    borderColor: '#4BC0C0',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    });
+</script>

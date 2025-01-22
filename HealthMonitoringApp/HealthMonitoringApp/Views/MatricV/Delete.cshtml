@@ -1,0 +1,17 @@
+﻿@model List<BLL.DTOs.MatricDTO>
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+<h1>Are you Sure to delete?</h1>
+@foreach (var matrics in Model)
+{
+    <h3>@matrics.Name</h3>
+    <form method="post">
+        <input type="hidden" name="Id" value="@matrics.MatricsId" />
+        <input type="submit" value="Yes" name="dcsn" class="btn btn-danger" />
+        <input type="submit" value="No" name="dcsn" class="btn btn-warning" />
+    </form>
+}
+
