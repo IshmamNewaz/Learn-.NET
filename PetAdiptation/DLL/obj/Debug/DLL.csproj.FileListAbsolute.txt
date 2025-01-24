@@ -1,0 +1,14 @@
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\DLL\bin\Debug\DLL.dll.config
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\DLL\bin\Debug\DLL.dll
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\DLL\bin\Debug\DLL.pdb
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\DLL\bin\Debug\EntityFramework.dll
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\DLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\DLL\bin\Debug\EntityFramework.xml
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\DLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\DLL\obj\Debug\DLL.csproj.Up2Date
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\DLL\obj\Debug\DLL.dll
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\DLL\obj\Debug\DLL.pdb
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\DLL\obj\Debug\DLL.Migrations.FirstUpdate.resources
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\DLL\obj\Debug\DLL.csproj.GenerateResource.cache

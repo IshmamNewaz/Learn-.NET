@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetAdiptation", "PetAdiptation\PetAdiptation.csproj", "{5209EEB3-6A3A-40A8-B9AE-0A50CD5D12B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{51364EFB-BAC3-4E3A-8766-4FFB670A4C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL", "DLL\DLL.csproj", "{81446F27-71D3-49AB-AFF5-23B2EA749BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5209EEB3-6A3A-40A8-B9AE-0A50CD5D12B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5209EEB3-6A3A-40A8-B9AE-0A50CD5D12B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5209EEB3-6A3A-40A8-B9AE-0A50CD5D12B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5209EEB3-6A3A-40A8-B9AE-0A50CD5D12B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51364EFB-BAC3-4E3A-8766-4FFB670A4C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51364EFB-BAC3-4E3A-8766-4FFB670A4C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51364EFB-BAC3-4E3A-8766-4FFB670A4C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51364EFB-BAC3-4E3A-8766-4FFB670A4C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81446F27-71D3-49AB-AFF5-23B2EA749BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81446F27-71D3-49AB-AFF5-23B2EA749BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81446F27-71D3-49AB-AFF5-23B2EA749BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81446F27-71D3-49AB-AFF5-23B2EA749BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2563B69-6C5C-43DB-A78C-759D2F0C65BC}
+	EndGlobalSection
+EndGlobal

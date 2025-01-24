@@ -1,0 +1,14 @@
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\BLL\bin\Debug\BLL.dll
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\BLL\bin\Debug\BLL.pdb
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\BLL\bin\Debug\AutoMapper.dll
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\BLL\bin\Debug\AutoMapper.xml
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\BLL\obj\Debug\BLL.dll
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\BLL\obj\Debug\BLL.pdb
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\BLL\bin\Debug\DLL.dll
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\BLL\bin\Debug\EntityFramework.dll
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\BLL\bin\Debug\DLL.pdb
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\BLL\bin\Debug\DLL.dll.config
+C:\Users\RTX696969\Desktop\Temp Project\PetAdiptation\BLL\bin\Debug\EntityFramework.xml

@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5209EEB3-6A3A-40A8-B9AE-0A50CD5D12B6}|PetAdiptation\\PetAdiptation.csproj|c:\\users\\rtx696969\\desktop\\temp project\\petadiptation\\petadiptation\\controllers\\petinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5209EEB3-6A3A-40A8-B9AE-0A50CD5D12B6}|PetAdiptation\\PetAdiptation.csproj|solutionrelative:petadiptation\\controllers\\petinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5209EEB3-6A3A-40A8-B9AE-0A50CD5D12B6}|PetAdiptation\\PetAdiptation.csproj|c:\\users\\rtx696969\\desktop\\temp project\\petadiptation\\petadiptation\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5209EEB3-6A3A-40A8-B9AE-0A50CD5D12B6}|PetAdiptation\\PetAdiptation.csproj|solutionrelative:petadiptation\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|c:\\users\\rtx696969\\desktop\\temp project\\petadiptation\\dll\\repo\\petinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|solutionrelative:dll\\repo\\petinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|c:\\users\\rtx696969\\desktop\\temp project\\petadiptation\\dll\\repo\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|solutionrelative:dll\\repo\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|c:\\users\\rtx696969\\desktop\\temp project\\petadiptation\\dll\\ef\\petinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|solutionrelative:dll\\ef\\petinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51364EFB-BAC3-4E3A-8766-4FFB670A4C00}|BLL\\BLL.csproj|c:\\users\\rtx696969\\desktop\\temp project\\petadiptation\\bll\\services\\petinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51364EFB-BAC3-4E3A-8766-4FFB670A4C00}|BLL\\BLL.csproj|solutionrelative:bll\\services\\petinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|c:\\users\\rtx696969\\desktop\\temp project\\petadiptation\\dll\\migrations\\202501242001465_firstupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|solutionrelative:dll\\migrations\\202501242001465_firstupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|c:\\users\\rtx696969\\desktop\\temp project\\petadiptation\\dll\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|solutionrelative:dll\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|c:\\users\\rtx696969\\desktop\\temp project\\petadiptation\\dll\\ef\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|solutionrelative:dll\\ef\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5209EEB3-6A3A-40A8-B9AE-0A50CD5D12B6}|PetAdiptation\\PetAdiptation.csproj|c:\\users\\rtx696969\\desktop\\temp project\\petadiptation\\petadiptation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5209EEB3-6A3A-40A8-B9AE-0A50CD5D12B6}|PetAdiptation\\PetAdiptation.csproj|solutionrelative:petadiptation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51364EFB-BAC3-4E3A-8766-4FFB670A4C00}|BLL\\BLL.csproj|c:\\users\\rtx696969\\desktop\\temp project\\petadiptation\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51364EFB-BAC3-4E3A-8766-4FFB670A4C00}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51364EFB-BAC3-4E3A-8766-4FFB670A4C00}|BLL\\BLL.csproj|c:\\users\\rtx696969\\desktop\\temp project\\petadiptation\\bll\\dtos\\petinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51364EFB-BAC3-4E3A-8766-4FFB670A4C00}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\petinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|c:\\users\\rtx696969\\desktop\\temp project\\petadiptation\\dll\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|solutionrelative:dll\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|c:\\users\\rtx696969\\desktop\\temp project\\petadiptation\\dll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81446F27-71D3-49AB-AFF5-23B2EA749BAE}|DLL\\DLL.csproj|solutionrelative:dll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\PetAdiptation\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "PetAdiptation\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\PetAdiptation\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "PetAdiptation\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:12:18.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DLL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DLL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:01:18.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetinfoController.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\PetAdiptation\\Controllers\\PetinfoController.cs",
+              "RelativeDocumentMoniker": "PetAdiptation\\Controllers\\PetinfoController.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\PetAdiptation\\Controllers\\PetinfoController.cs",
+              "RelativeToolTip": "PetAdiptation\\Controllers\\PetinfoController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:58:28.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PetinfoService.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\BLL\\Services\\PetinfoService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PetinfoService.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\BLL\\Services\\PetinfoService.cs",
+              "RelativeToolTip": "BLL\\Services\\PetinfoService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:53:39.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PetinfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\BLL\\DTOs\\PetinfoDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PetinfoDTO.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\BLL\\DTOs\\PetinfoDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PetinfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:52:24.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\EF\\Context.cs",
+              "RelativeDocumentMoniker": "DLL\\EF\\Context.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\EF\\Context.cs",
+              "RelativeToolTip": "DLL\\EF\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:43:34.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Petinfo.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\EF\\Petinfo.cs",
+              "RelativeDocumentMoniker": "DLL\\EF\\Petinfo.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\EF\\Petinfo.cs",
+              "RelativeToolTip": "DLL\\EF\\Petinfo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:43:26.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetinfoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\Repo\\PetinfoRepo.cs",
+              "RelativeDocumentMoniker": "DLL\\Repo\\PetinfoRepo.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\Repo\\PetinfoRepo.cs",
+              "RelativeToolTip": "DLL\\Repo\\PetinfoRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:43:08.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\Repo\\Repo.cs",
+              "RelativeDocumentMoniker": "DLL\\Repo\\Repo.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\Repo\\Repo.cs",
+              "RelativeToolTip": "DLL\\Repo\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:42:54.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "202501242001465_FirstUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\Migrations\\202501242001465_FirstUpdate.cs",
+              "RelativeDocumentMoniker": "DLL\\Migrations\\202501242001465_FirstUpdate.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\Migrations\\202501242001465_FirstUpdate.cs",
+              "RelativeToolTip": "DLL\\Migrations\\202501242001465_FirstUpdate.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:02:01.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\PetAdiptation\\Web.config",
+              "RelativeDocumentMoniker": "PetAdiptation\\Web.config",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\PetAdiptation\\Web.config",
+              "RelativeToolTip": "PetAdiptation\\Web.config",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwEMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-24T19:35:31.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\packages.config",
+              "RelativeDocumentMoniker": "DLL\\packages.config",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\packages.config",
+              "RelativeToolTip": "DLL\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-24T19:38:44.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\Class1.cs",
+              "RelativeDocumentMoniker": "DLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\DLL\\Class1.cs",
+              "RelativeToolTip": "DLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:36:33.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\RTX696969\\Desktop\\Temp Project\\PetAdiptation\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:36:14.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
